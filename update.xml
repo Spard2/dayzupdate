@@ -6,5 +6,12 @@
 		<html>https://drive.google.com/open?id=1GOystmxQIKfMtbW20P8c0s9hnjwmDxTE</html> 
 		<command>true</command> 
 		<execute>Missions.exe</execute>	
-  	</update>  	
+  	</update>
+	<update>
+    	<version>1.2</version>
+    	<file>UPDATE1.2.zip</file>
+		<html>https://drive.google.com/open?id=1Ry2diUg9MLdA7o6-03z1kkRiJ4FAvb51</html> 
+		<command>false</command> 
+		<execute>Missions.exe</execute>	
+  	</update>
 </theupdates>
