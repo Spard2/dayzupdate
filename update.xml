@@ -27,5 +27,12 @@
 		<html>https://drive.google.com/open?id=1xanXkpxJbCpddWeqHwaovLc38aKA1VOc</html> 
 		<command>false</command> 
 		<execute>Nada.exe</execute>	
+  	</update>
+	<update>
+    	<version>1.5</version>
+    	<file>UPDATE1.5.zip</file>
+		<html>https://drive.google.com/open?id=1R52KsXG69gcucd2yY5Qa0mVXLbgQYAUD</html> 
+		<command>false</command> 
+		<execute>Nada.exe</execute>	
   	</update>	
 </theupdates>
