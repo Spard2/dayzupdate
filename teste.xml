@@ -3,8 +3,8 @@
 	<update>
     		<version>1.0</version>
     		<file>UPDATE.zip</file>
-		    <html>http://191.234.185.137/update/UPDATE1.zip</html> 
-		    <command>false</command> 
-		    <execute></execute>	
+		<html>http://191.234.185.137/update/UPDATE1.zip</html> 
+		<command>false</command> 
+		<execute></execute>	
   	</update>	
 </theupdates>
