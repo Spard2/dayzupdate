@@ -3,7 +3,7 @@
 	<update>
     		<version>1.1</version>
     		<file>Music.zip</file>
-		<html>https://us.cloudamo.com/index.php/apps/files/ajax/download.php?dir=%2F&ampfiles=Music.zip</html> 
+		<html>https://us.cloudamo.com/remote.php/webdav/Music.zip</html> 
 		<command>false</command> 
 		<execute>null</execute>	
   	</update>
