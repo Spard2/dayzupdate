@@ -22,7 +22,7 @@
 		<execute>null</execute>	
   	</update>
 	<update>
-    		<version>1.5</version>
+    		<version>1.4</version>
     		<file>UPDATE4.zip</file>
 		<html>http://191.234.185.137/update/UPDATE4.zip</html> 
 		<command>false</command> 
