@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <theupdates>
-	<update>    		
+	<update>
+    		<version>1.0</version>
+    		<file>NADA.zip</file>
+		<html></html> 
+		<command>false</command> 
+		<execute>null</execute>	
   	</update>	
 </theupdates>
