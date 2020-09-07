@@ -2,8 +2,8 @@
 <theupdates>
 	<update>
 		<version>1.0</version>
-		<file></file>
-		<html></html>
+		<file>null</file>
+		<html>null</html>
 		<command>false</command>
 		<execute>null</execute>
 	</update>	
