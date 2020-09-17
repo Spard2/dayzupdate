@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theupdates>
 	<update>
-		<version>1.0</version>
-		<file>null</file>
-		<html>null</html>
+		<version>1.1</version>
+		<file>UPDATE1.zip</file>
+		<html>http://191.233.254.171/update/UPDATE1.zip</html>
 		<command>false</command>
-		<execute>null</execute>
+		<execute>false</execute>
 	</update>	
 </theupdates>
