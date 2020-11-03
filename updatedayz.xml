@@ -5,7 +5,7 @@
 	<html1>https://drive.google.com/file/d/10t-WSy1pX_IIDq5YI4pSIykYtXSNnd7O/view?usp=sharing</html1>
 	<html2>https://drive.google.com/file/d/1I6O6VnNdQFWCzTZyf_XhWni20SqK1IPC/view?usp=sharing</html2>
 	<html3>https://drive.google.com/file/d/1rOc-P5GAjqahvPUdaiSPwrlJvUZAj4gc/view?usp=sharing</html3>
-	<command>true</command>
-	<execute>exec.bat</execute>
+	<command>false</command>
+	<execute>false</execute>
 </update>	
 
