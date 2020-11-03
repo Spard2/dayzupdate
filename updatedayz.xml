@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-	<version>1.0</version>
+	<version>1.1</version>
 	<file>UPDATE0.zip</file>
-	<html1>https://drive.google.com/file/d/1C6mHnwcGuJHGhmviErpxAaV-p3kLTmHc/view?usp=sharing</html1>
-	<html2>https://drive.google.com/file/d/1C6mHnwcGuJHGhmviErpxAaV-p3kLTmHc/view?usp=sharing</html2>
-	<html3>https://drive.google.com/file/d/1C6mHnwcGuJHGhmviErpxAaV-p3kLTmHc/view?usp=sharing</html3>
-	<command>false</command>
-	<execute>false</execute>
+	<html1>https://drive.google.com/file/d/1hh23ZMRN_f1kR11jrWChAjQvUJv8WgXs/view?usp=sharing</html1>
+	<html2>https://drive.google.com/file/d/1GEa-N9DsNn95E87uZZJB9WUj581EHMc8/view?usp=sharing</html2>
+	<html3>https://drive.google.com/file/d/14mK-E8PfkgNIMHYkkW79yZ4EBynKtwMc/view?usp=sharing</html3>
+	<command>true</command>
+	<execute>exec.bat</execute>
 </update>	
 
