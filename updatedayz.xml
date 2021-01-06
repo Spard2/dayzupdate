@@ -3,9 +3,9 @@
 	<update>
 		<version>1.1</version>
 		<file>UPDATE1.zip</file>		
-		<html1 href="https://drive.google.com/file/d/1dLULeI_muVUq0kiwxgve7UlaoNjTG_s2/view?usp=sharing"></html1>
-		<html2 href="https://drive.google.com/file/d/1dLULeI_muVUq0kiwxgve7UlaoNjTG_s2/view?usp=sharing"></html2>
-		<html3 href="https://drive.google.com/file/d/1dLULeI_muVUq0kiwxgve7UlaoNjTG_s2/view?usp=sharing"></html3>		
+		<html1 link="https://drive.google.com/file/d/1dLULeI_muVUq0kiwxgve7UlaoNjTG_s2/view?usp=sharing"></html1>
+		<html2 link="https://drive.google.com/file/d/1dLULeI_muVUq0kiwxgve7UlaoNjTG_s2/view?usp=sharing"></html2>
+		<html3 link="https://drive.google.com/file/d/1dLULeI_muVUq0kiwxgve7UlaoNjTG_s2/view?usp=sharing"></html3>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
