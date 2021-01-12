@@ -4,8 +4,8 @@
 		<version>1.1</version>
 		<file>UPDATE1.zip</file>		
 		<html>https://drive.google.com/file/d/1gCUyE3JsDn45DjJGph7z1rd6QONc3Wmm/view?usp=sharing</html>	
-		<htm2>https://drive.google.com/file/d/1gCUyE3JsDn45DjJGph7z1rd6QONc3Wmm/view?usp=sharing</html>	
-		<htm3>https://drive.google.com/file/d/1gCUyE3JsDn45DjJGph7z1rd6QONc3Wmm/view?usp=sharing</html>			
+		<htm2>https://drive.google.com/file/d/1gCUyE3JsDn45DjJGph7z1rd6QONc3Wmm/view?usp=sharing</htm2>	
+		<htm3>https://drive.google.com/file/d/1gCUyE3JsDn45DjJGph7z1rd6QONc3Wmm/view?usp=sharing</htm3>			
 		<command>false</command>
 		<execute>false</execute>
 	</update>
