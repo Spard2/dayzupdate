@@ -3,14 +3,14 @@
 	<update>
 		<version>1.1</version>
 		<file>UPDATE1.zip</file>		
-		<html>https://cdn.matix-media.net/dd/80f97eb3</html>		
+		<html>https://matix.li/d791ff2449b1</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
 	<update>
 		<version>1.2</version>
 		<file>UPDATE2.zip</file>		
-		<html>https://cdn.matix-media.net/dd/80f97eb3</html>		
+		<html>https://matix.li/d791ff2449b1</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
