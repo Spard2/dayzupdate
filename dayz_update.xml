@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>1.0</version>
-		<file>false.zip</file>		
-		<html>https://matix.li/d791ff2449b1</html>		
+		<version>1.1</version>
+		<file>UPDATE1.zip</file>		
+		<html>https://matix.li/bc148a1ef942</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>	
