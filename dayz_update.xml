@@ -3,7 +3,7 @@
 	<update>
 		<version>1.1</version>
 		<file>UPDATE1.zip</file>		
-		<html>https://drive.google.com/uc?export=download&id=1lOuAIq7PZeLA0B_ouFkxcAthHAHAI-bV</html>		
+		<html>https://drive.google.com/uc?export=download"&amp"id=1lOuAIq7PZeLA0B_ouFkxcAthHAHAI-bV</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>	
