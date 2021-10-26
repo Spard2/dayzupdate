@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<update>
-	<version>1.1</version>
-	<file>UPDATE2.zip</file>		
-	<html>https://drive.google.com/uc?export=download&amp;id=1XoMeeT7FjLBuBNPy43LZI9wKq_MKSflVQ</html>		
-	<command>false</command>
-	<execute>false</execute>
-</update>
+<root>
+	<update>
+		<version>1.1</version>
+		<file>UPDATE2.zip</file>		
+		<html>https://drive.google.com/uc?export=download&amp;id=1XoMeeT7FjLBuBNPy43LZI9wKq_MKSflVQ</html>		
+		<command>false</command>
+		<execute>false</execute>
+	</update>
+</root>
