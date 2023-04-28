@@ -1,0 +1,47 @@
+﻿[  
+  {
+    "FileName": "Posto2Rio\\$PREFIX$",
+    "Size": 9,
+    "MD5": "f813459f47096cf8211cabd40d2b87b0"
+  },
+  {
+    "FileName": "Posto2Rio\\config.bin",
+    "Size": 272,
+    "MD5": "7a199e8cb15d4d1db4836177a888a746"
+  },
+  {
+    "FileName": "Posto2Rio\\posto2\\posto_2.p3d",
+    "Size": 353660,
+    "MD5": "c8065e5f40c0f4345d3c6b660c97b2cb"
+  },
+  {
+    "FileName": "Posto2Rio\\posto2\\data\\Color_001.paa",
+    "Size": 16446,
+    "MD5": "98f3f2a331c699b789f6a995035e6d47"
+  },
+  {
+    "FileName": "Posto2Rio\\posto2\\data\\Color_002.paa",
+    "Size": 210365,
+    "MD5": "53125520d4cd61b48a93d252be68025c"
+  },
+  {
+    "FileName": "Posto2Rio\\posto2\\data\\Color_006.paa",
+    "Size": 212797,
+    "MD5": "ec6730d196ad54752b2e18d31204b713"
+  },
+  {
+    "FileName": "Posto2Rio\\posto2\\data\\Tunnel_normal_nohq.paa",
+    "Size": 17034740,
+    "MD5": "86abb45166bae97d916bebaf1f9c7918"
+  },
+  {
+    "FileName": "Posto2Rio\\posto2\\data\\Tunnel_pack.rvmat",
+    "Size": 1534,
+    "MD5": "5144aa5e91f59824166f914248fbf709"
+  },
+  {
+    "FileName": "Posto2Rio\\posto2\\data\\_Charcoal_.paa",
+    "Size": 62933,
+    "MD5": "31c7ee7b302a7c6b673e6947b794452f"
+  }
+]
