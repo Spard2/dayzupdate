@@ -1,47 +1,337 @@
-﻿[  
+﻿[
   {
-    "FileName": "Posto2Rio\\$PREFIX$",
+    "FileName": "amd_ags_x64.dll",
+    "Size": 111536,
+    "MD5": "14a6db156de5b3e224232f6251f839dd"
+  },
+  {
+    "FileName": "dayz.gproj",
+    "Size": 1719,
+    "MD5": "c3eb54b881b35859c09000f1695157ff"
+  },
+  {
+    "FileName": "DayZ_BE.exe",
+    "Size": 1337848,
+    "MD5": "47c952a1127997f63a7a459dd8cb6314"
+  },
+  {
+    "FileName": "DayZ_x64.exe",
+    "Size": 16198888,
+    "MD5": "8ecacc6a41acb437e413cbe1290e79af"
+  },
+  {
+    "FileName": "steam_api64.dll",
+    "Size": 249120,
+    "MD5": "3a0b908e4d059125dd79d9014f5b67a9"
+  },
+  {
+    "FileName": "steam_appid.txt",
     "Size": 9,
-    "MD5": "f813459f47096cf8211cabd40d2b87b0"
+    "MD5": "444b408f13a05deb53861c0a9ed2dfbc"
   },
   {
-    "FileName": "Posto2Rio\\config.bin",
-    "Size": 272,
-    "MD5": "7a199e8cb15d4d1db4836177a888a746"
+    "FileName": "BattlEye\\BEClient_x64.cfg",
+    "Size": 28,
+    "MD5": "9ad0b55e1cdfc267f01ad5dfb9275f1d"
   },
   {
-    "FileName": "Posto2Rio\\posto2\\posto_2.p3d",
-    "Size": 353660,
-    "MD5": "c8065e5f40c0f4345d3c6b660c97b2cb"
+    "FileName": "BattlEye\\BEClient_x64.dll",
+    "Size": 5967112,
+    "MD5": "00d2fb21a81ce0f2e9907dafc1fc439c"
   },
   {
-    "FileName": "Posto2Rio\\posto2\\data\\Color_001.paa",
-    "Size": 16446,
-    "MD5": "98f3f2a331c699b789f6a995035e6d47"
+    "FileName": "BattlEye\\BELauncher.ini",
+    "Size": 92,
+    "MD5": "484fa098bf0cbcfd81bf4025ca1a7b2b"
   },
   {
-    "FileName": "Posto2Rio\\posto2\\data\\Color_002.paa",
-    "Size": 210365,
-    "MD5": "53125520d4cd61b48a93d252be68025c"
+    "FileName": "BattlEye\\BEService_x64.exe",
+    "Size": 9884424,
+    "MD5": "8344900f4d1729deb780cf031d0b77d4"
   },
   {
-    "FileName": "Posto2Rio\\posto2\\data\\Color_006.paa",
-    "Size": 212797,
-    "MD5": "ec6730d196ad54752b2e18d31204b713"
+    "FileName": "BattlEye\\EULA.txt",
+    "Size": 2758,
+    "MD5": "033e3772eef25e4016ca81c0d6170c6b"
   },
   {
-    "FileName": "Posto2Rio\\posto2\\data\\Tunnel_normal_nohq.paa",
-    "Size": 17034740,
-    "MD5": "86abb45166bae97d916bebaf1f9c7918"
+    "FileName": "BattlEye\\Install_BattlEye.bat",
+    "Size": 58,
+    "MD5": "210799a7ff954d75c4efc152c0db3902"
   },
   {
-    "FileName": "Posto2Rio\\posto2\\data\\Tunnel_pack.rvmat",
-    "Size": 1534,
-    "MD5": "5144aa5e91f59824166f914248fbf709"
+    "FileName": "BattlEye\\Licenses.txt",
+    "Size": 1128,
+    "MD5": "9452ca7963b62ae584a5d9c35abaaf2e"
   },
   {
-    "FileName": "Posto2Rio\\posto2\\data\\_Charcoal_.paa",
-    "Size": 62933,
-    "MD5": "31c7ee7b302a7c6b673e6947b794452f"
+    "FileName": "BattlEye\\Uninstall_BattlEye.bat",
+    "Size": 58,
+    "MD5": "633d26467153e83cf54097d94b2dbc8e"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\cs.txt",
+    "Size": 3368,
+    "MD5": "77bca75ac5b2445daa982c4afcc96e81"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\de.txt",
+    "Size": 3417,
+    "MD5": "60a7a9ae31dc1d06ccb35f6a08532e7d"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\en.txt",
+    "Size": 2758,
+    "MD5": "033e3772eef25e4016ca81c0d6170c6b"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\es.txt",
+    "Size": 3260,
+    "MD5": "90ce0b3c0f8e7fb8921d387ac052beff"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\fr.txt",
+    "Size": 3390,
+    "MD5": "7d47c52a91fead55c747109a79e45f59"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\it.txt",
+    "Size": 3158,
+    "MD5": "2f800a6fc6cac59d63b4cfe97c4e0c24"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\ja.txt",
+    "Size": 3991,
+    "MD5": "fac50aad714fd0b2deb7a65b30018fa8"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\ko.txt",
+    "Size": 3585,
+    "MD5": "63f11dd69abb9dd96cd68ecb3b690e03"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\nl.txt",
+    "Size": 3363,
+    "MD5": "6dd303533a02009e782e30a4db19e552"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\pl.txt",
+    "Size": 3314,
+    "MD5": "6a1643878b7d8a74a0d360556f824d92"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\pt.txt",
+    "Size": 3152,
+    "MD5": "e723721e944fd850f80cd3527c351d12"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\ru.txt",
+    "Size": 5543,
+    "MD5": "3c8772835cd4dd070fb22cb2c43c2496"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\tr.txt",
+    "Size": 3272,
+    "MD5": "e8c4d7b3b00dc95cd0cf2113dfaa2317"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\zh-TW.txt",
+    "Size": 2460,
+    "MD5": "8d8c4618329de135b2d3b8f1f6fbc399"
+  },
+  {
+    "FileName": "BattlEye\\EULA\\zh.txt",
+    "Size": 2466,
+    "MD5": "8b0de381c4e798f8ad2ffe74291ee794"
+  },
+  {
+    "FileName": "BattlEye\\Privacy\\en-US.txt",
+    "Size": 1699,
+    "MD5": "9f81b0fc8e4c2e393661f4f1ac0b9ef9"
+  },
+  {
+    "FileName": "BattlEye\\Text\\cs.ini",
+    "Size": 3192,
+    "MD5": "610277c199806dde89e3e9fbe345ce79"
+  },
+  {
+    "FileName": "BattlEye\\Text\\de.ini",
+    "Size": 3283,
+    "MD5": "d4c268f65ca6c317c8c6d3a38dd72556"
+  },
+  {
+    "FileName": "BattlEye\\Text\\en.ini",
+    "Size": 2748,
+    "MD5": "ea51aefe72acf43638df2791df6f9141"
+  },
+  {
+    "FileName": "BattlEye\\Text\\es.ini",
+    "Size": 3137,
+    "MD5": "1bcc446ce940445a131bc443c869ce21"
+  },
+  {
+    "FileName": "BattlEye\\Text\\fr.ini",
+    "Size": 3246,
+    "MD5": "d22379b09ad219876c2543edaa1f081f"
+  },
+  {
+    "FileName": "BattlEye\\Text\\it.ini",
+    "Size": 3024,
+    "MD5": "8362c02242c00897adbf46d7e81d03fd"
+  },
+  {
+    "FileName": "BattlEye\\Text\\ja.ini",
+    "Size": 4125,
+    "MD5": "1c063bcedc21b7257fc83e37442f8fa2"
+  },
+  {
+    "FileName": "BattlEye\\Text\\ko.ini",
+    "Size": 3362,
+    "MD5": "2097d0292d438f21f43522829812c612"
+  },
+  {
+    "FileName": "BattlEye\\Text\\nl.ini",
+    "Size": 3004,
+    "MD5": "d5831046462d1a5a5d5956212d42a2dd"
+  },
+  {
+    "FileName": "BattlEye\\Text\\pl.ini",
+    "Size": 3165,
+    "MD5": "b7ba89d9e9046f81adbbcbb1ad84b387"
+  },
+  {
+    "FileName": "BattlEye\\Text\\pt.ini",
+    "Size": 3054,
+    "MD5": "ac10f9fc5c443d1a613d08c58615162d"
+  },
+  {
+    "FileName": "BattlEye\\Text\\ru.ini",
+    "Size": 4901,
+    "MD5": "3a243a60a6d91ef8909d9150c9cfb788"
+  },
+  {
+    "FileName": "BattlEye\\Text\\tr.ini",
+    "Size": 2990,
+    "MD5": "40a8849fe93b59ebdd7a9770aa37704f"
+  },
+  {
+    "FileName": "BattlEye\\Text\\zh-TW.ini",
+    "Size": 2628,
+    "MD5": "1ee4320204e4ae1bc3d1ce6df8136b1c"
+  },
+  {
+    "FileName": "BattlEye\\Text\\zh.ini",
+    "Size": 2628,
+    "MD5": "436d93e0c378effcd991f639f8ac391c"
+  },
+  {
+    "FileName": "dta\\bin.pbo",
+    "Size": 311298,
+    "MD5": "b3761d301fb4adae86366ffd83b178ec"
+  },
+  {
+    "FileName": "dta\\bin.pbo.dayz.bisign",
+    "Size": 557,
+    "MD5": "86ef193e01c4c114eb8a7ea52fb26636"
+  },
+  {
+    "FileName": "dta\\core.pbo",
+    "Size": 9719171,
+    "MD5": "1cd118001de17612643814795ddde267"
+  },
+  {
+    "FileName": "dta\\core.pbo.dayz.bisign",
+    "Size": 557,
+    "MD5": "593f3b271bbdc96299d7c3d9fb32f1fe"
+  },
+  {
+    "FileName": "dta\\graphics.pbo",
+    "Size": 58949377,
+    "MD5": "6aa24841141e70ce215a4c9d89d42f0f"
+  },
+  {
+    "FileName": "dta\\graphics.pbo.dayz.bisign",
+    "Size": 557,
+    "MD5": "1ac04ccef9ff206e43b71be456f451f9"
+  },
+  {
+    "FileName": "dta\\gui.pbo",
+    "Size": 129875646,
+    "MD5": "09a92a7759b1c1b5ccf57653747df67e"
+  },
+  {
+    "FileName": "dta\\gui.pbo.dayz.bisign",
+    "Size": 557,
+    "MD5": "65d379984affb0d3229a6227f9a03197"
+  },
+  {
+    "FileName": "dta\\languagecore.pbo",
+    "Size": 4421004,
+    "MD5": "1be4da60d49abee725321c8f4ab99eaf"
+  },
+  {
+    "FileName": "dta\\languagecore.pbo.dayz.bisign",
+    "Size": 557,
+    "MD5": "99be268b4e54d2aefcd6ae7bf5741e7e"
+  },
+  {
+    "FileName": "dta\\product.bin",
+    "Size": 241,
+    "MD5": "ce8fc6e908f584215045f37a30ba71f3"
+  },
+  {
+    "FileName": "dta\\scripts.pbo",
+    "Size": 11006569,
+    "MD5": "004884565a8832a7b68be5fd324f6a99"
+  },
+  {
+    "FileName": "dta\\scripts.pbo.dayz.bisign",
+    "Size": 557,
+    "MD5": "01408e6037730dda54cd5a468933e4ff"
+  },
+  {
+    "FileName": "dta\\system.pbo",
+    "Size": 14253154,
+    "MD5": "3c735678a9b22e42c600729c0b326e47"
+  },
+  {
+    "FileName": "dta\\system.pbo.dayz.bisign",
+    "Size": 557,
+    "MD5": "ca3b604731a4f7fc33da9bbd248e6f0c"
+  },
+  {
+    "FileName": "Steam\\editor.ini",
+    "Size": 1436,
+    "MD5": "a1e56be08807fc70baff90dbea997c94"
+  },
+  {
+    "FileName": "Steam\\steam_emu.dll",
+    "Size": 6391296,
+    "MD5": "b0f933e1a03346d839cd4c3a51c64421"
+  },
+  {
+    "FileName": "Steam\\steam_emu.ini",
+    "Size": 2962,
+    "MD5": "f14f8f55fdec92c5d069675c9acb890f"
+  },
+  {
+    "FileName": "Steam\\steam_loader.exe",
+    "Size": 184320,
+    "MD5": "de88663851f3e7cd6815f08654f3c004"
+  },
+  {
+    "FileName": "Steam\\SmartSteamEmu\\Plugins\\x64\\Emulator.dll",
+    "Size": 18944,
+    "MD5": "0ed9bdc102d190fc346943db05c6ecdd"
+  },
+  {
+    "FileName": "_Essenciais\\dxwebsetup.exe",
+    "Size": 292184,
+    "MD5": "bcbb7c0cd9696068988953990ec5bd11"
+  },
+  {
+    "FileName": "_Essenciais\\MS Visual C++ Redist. AIO v0.25.0 (x86_x64).exe",
+    "Size": 30008040,
+    "MD5": "fc1123681bd0de0a7513d86d0e4f712c"
   }
 ]
