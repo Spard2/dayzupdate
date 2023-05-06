@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>  
+  <noticia>    
+    <link>http://127.0.0.1/site/1.png</link>
+  </noticia>
+  <noticia>
+    <link>http://127.0.0.1/site/2.png</link>
+  </noticia>
+  <noticia>   
+    <link>http://127.0.0.1/site/3.png</link>
+  </noticia>
+  <noticia>    
+    <link>http://127.0.0.1/site/4.png</link>
+  </noticia>
+  <noticia>   
+    <link>http://127.0.0.1/site/5.png</link>
+  </noticia>
+</root>
