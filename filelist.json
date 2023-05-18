@@ -1,5 +1,135 @@
 ﻿[
   {
+    "FileName": "amd_ags_x64.dll",
+    "Size": 111536,
+    "MD5": "14a6db156de5b3e224232f6251f839dd"
+  },
+  {
+    "FileName": "CefSharp.BrowserSubprocess.Core.dll",
+    "Size": 940544,
+    "MD5": "00dd712605dba39a0549609500a6b4bc"
+  },
+  {
+    "FileName": "CefSharp.BrowserSubprocess.exe",
+    "Size": 7168,
+    "MD5": "eb9caea93e115e33ceadcc39c6735990"
+  },
+  {
+    "FileName": "CefSharp.Core.dll",
+    "Size": 842752,
+    "MD5": "7679f1ccf036571827fc5b472012471a"
+  },
+  {
+    "FileName": "CefSharp.Core.Runtime.dll",
+    "Size": 1393152,
+    "MD5": "6ecdb34c395445d40c9070bc43d4a82c"
+  },
+  {
+    "FileName": "CefSharp.dll",
+    "Size": 280576,
+    "MD5": "0568e3e543eb856046987c9e5b4c701b"
+  },
+  {
+    "FileName": "CefSharp.WinForms.dll",
+    "Size": 53248,
+    "MD5": "56dd390dc9595a6a746515d3ba00d297"
+  },
+  {
+    "FileName": "chrome_100_percent.pak",
+    "Size": 622495,
+    "MD5": "eae66715d9a0d3a3574223e130dd3c83"
+  },
+  {
+    "FileName": "chrome_200_percent.pak",
+    "Size": 937172,
+    "MD5": "7f25dc4230fbfb1b2ee7a2133f929fe4"
+  },
+  {
+    "FileName": "chrome_elf.dll",
+    "Size": 1106944,
+    "MD5": "30486cba3b9135fa9224aa0005662cde"
+  },
+  {
+    "FileName": "d3dcompiler_47.dll",
+    "Size": 4108752,
+    "MD5": "e1677ec0e21e27405e65e31419980348"
+  },
+  {
+    "FileName": "DayZ Nemesis.exe",
+    "Size": 3834368,
+    "MD5": "d21b6f08ab69c3794905e251c292aa59"
+  },
+  {
+    "FileName": "DayZ Nemesis.exe.config",
+    "Size": 565,
+    "MD5": "47448cde780a17ca0df66556d0239961"
+  },
+  {
+    "FileName": "dayz.gproj",
+    "Size": 1719,
+    "MD5": "c3eb54b881b35859c09000f1695157ff"
+  },
+  {
+    "FileName": "DayZ_BE.exe",
+    "Size": 1337848,
+    "MD5": "47c952a1127997f63a7a459dd8cb6314"
+  },
+  {
+    "FileName": "DayZ_x64.exe",
+    "Size": 16198888,
+    "MD5": "8ecacc6a41acb437e413cbe1290e79af"
+  },
+  {
+    "FileName": "icudtl.dat",
+    "Size": 10544880,
+    "MD5": "2134e5dbc46fb1c46eac0fe1af710ec3"
+  },
+  {
+    "FileName": "libcef.dll",
+    "Size": 166876160,
+    "MD5": "ba89e5eab6c48d239a980e24602a3134"
+  },
+  {
+    "FileName": "libEGL.dll",
+    "Size": 374784,
+    "MD5": "260791a2b597e9d62fdcfb5a7441e5de"
+  },
+  {
+    "FileName": "libGLESv2.dll",
+    "Size": 6409216,
+    "MD5": "f7d9b66f901eedda0d01c54a66381bd2"
+  },
+  {
+    "FileName": "Newtonsoft.Json.dll",
+    "Size": 711952,
+    "MD5": "195ffb7167db3219b217c4fd439eedd6"
+  },
+  {
+    "FileName": "resources.pak",
+    "Size": 7745462,
+    "MD5": "ae257b89b5c4d150463136bfd453d8f1"
+  },
+  {
+    "FileName": "snapshot_blob.bin",
+    "Size": 227664,
+    "MD5": "7f7c9178a9af8b9abb94d43fa4b35e38"
+  },
+  {
+    "FileName": "steam_api64.dll",
+    "Size": 249120,
+    "MD5": "3a0b908e4d059125dd79d9014f5b67a9"
+  },
+  {
+    "FileName": "steam_appid.txt",
+    "Size": 9,
+    "MD5": "444b408f13a05deb53861c0a9ed2dfbc"
+  },
+  {
+    "FileName": "v8_context_snapshot.bin",
+    "Size": 530776,
+    "MD5": "74fb0a187fb5f0ca5fd39cf2bf7e0852"
+  },
+  {
     "FileName": "Addons\\ai.pbo",
     "Size": 113084,
     "MD5": "aeb17318e374b97e0ac4206d2c7c87b3"
@@ -1695,151 +1825,6 @@
     "MD5": "521c9153b01ecb26b19e1f79eead7d8b"
   },
   {
-    "FileName": "_Essenciais\\dxwebsetup.exe",
-    "Size": 292184,
-    "MD5": "bcbb7c0cd9696068988953990ec5bd11"
-  },
-  {
-    "FileName": "_Essenciais\\VisualC.exe",
-    "Size": 30008040,
-    "MD5": "fc1123681bd0de0a7513d86d0e4f712c"
-  },
-  {
-    "FileName": "amd_ags_x64.dll",
-    "Size": 111536,
-    "MD5": "14a6db156de5b3e224232f6251f839dd"
-  },
-  {
-    "FileName": "CefSharp.BrowserSubprocess.Core.dll",
-    "Size": 940544,
-    "MD5": "00dd712605dba39a0549609500a6b4bc"
-  },
-  {
-    "FileName": "CefSharp.BrowserSubprocess.exe",
-    "Size": 7168,
-    "MD5": "eb9caea93e115e33ceadcc39c6735990"
-  },
-  {
-    "FileName": "CefSharp.Core.dll",
-    "Size": 842752,
-    "MD5": "7679f1ccf036571827fc5b472012471a"
-  },
-  {
-    "FileName": "CefSharp.Core.Runtime.dll",
-    "Size": 1393152,
-    "MD5": "6ecdb34c395445d40c9070bc43d4a82c"
-  },
-  {
-    "FileName": "CefSharp.dll",
-    "Size": 280576,
-    "MD5": "0568e3e543eb856046987c9e5b4c701b"
-  },
-  {
-    "FileName": "CefSharp.WinForms.dll",
-    "Size": 53248,
-    "MD5": "56dd390dc9595a6a746515d3ba00d297"
-  },
-  {
-    "FileName": "chrome_100_percent.pak",
-    "Size": 622495,
-    "MD5": "eae66715d9a0d3a3574223e130dd3c83"
-  },
-  {
-    "FileName": "chrome_200_percent.pak",
-    "Size": 937172,
-    "MD5": "7f25dc4230fbfb1b2ee7a2133f929fe4"
-  },
-  {
-    "FileName": "chrome_elf.dll",
-    "Size": 1106944,
-    "MD5": "30486cba3b9135fa9224aa0005662cde"
-  },
-  {
-    "FileName": "d3dcompiler_47.dll",
-    "Size": 4108752,
-    "MD5": "e1677ec0e21e27405e65e31419980348"
-  },
-  {
-    "FileName": "DayZ Nemesis.exe",
-    "Size": 3834368,
-    "MD5": "d21b6f08ab69c3794905e251c292aa59"
-  },
-  {
-    "FileName": "DayZ Nemesis.exe.config",
-    "Size": 565,
-    "MD5": "47448cde780a17ca0df66556d0239961"
-  },
-  {
-    "FileName": "dayz.gproj",
-    "Size": 1719,
-    "MD5": "c3eb54b881b35859c09000f1695157ff"
-  },
-  {
-    "FileName": "DayZ_BE.exe",
-    "Size": 1337848,
-    "MD5": "47c952a1127997f63a7a459dd8cb6314"
-  },
-  {
-    "FileName": "DayZ_x64.exe",
-    "Size": 16198888,
-    "MD5": "8ecacc6a41acb437e413cbe1290e79af"
-  },
-  {
-    "FileName": "icudtl.dat",
-    "Size": 10544880,
-    "MD5": "2134e5dbc46fb1c46eac0fe1af710ec3"
-  },
-  {
-    "FileName": "libcef.dll",
-    "Size": 166876160,
-    "MD5": "ba89e5eab6c48d239a980e24602a3134"
-  },
-  {
-    "FileName": "libEGL.dll",
-    "Size": 374784,
-    "MD5": "260791a2b597e9d62fdcfb5a7441e5de"
-  },
-  {
-    "FileName": "libGLESv2.dll",
-    "Size": 6409216,
-    "MD5": "f7d9b66f901eedda0d01c54a66381bd2"
-  },
-  {
-    "FileName": "Newtonsoft.Json.dll",
-    "Size": 711952,
-    "MD5": "195ffb7167db3219b217c4fd439eedd6"
-  },
-  {
-    "FileName": "Nickname.ini",
-    "Size": 7,
-    "MD5": "b7a71d2487e59850db7f3727abd4c2eb"
-  },
-  {
-    "FileName": "resources.pak",
-    "Size": 7745462,
-    "MD5": "ae257b89b5c4d150463136bfd453d8f1"
-  },
-  {
-    "FileName": "snapshot_blob.bin",
-    "Size": 227664,
-    "MD5": "7f7c9178a9af8b9abb94d43fa4b35e38"
-  },
-  {
-    "FileName": "steam_api64.dll",
-    "Size": 249120,
-    "MD5": "3a0b908e4d059125dd79d9014f5b67a9"
-  },
-  {
-    "FileName": "steam_appid.txt",
-    "Size": 9,
-    "MD5": "444b408f13a05deb53861c0a9ed2dfbc"
-  },
-  {
-    "FileName": "v8_context_snapshot.bin",
-    "Size": 530776,
-    "MD5": "74fb0a187fb5f0ca5fd39cf2bf7e0852"
-  },
-  {
     "FileName": "Missions\\@DayZEditor\\meta.cpp",
     "Size": 99,
     "MD5": "ff9d74d2788fe3ccdb252bb4480fc7b6"
@@ -2465,186 +2450,6 @@
     "MD5": "7337176db8ce6465f313461a4dbc8f07"
   },
   {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\players.db",
-    "Size": 16384,
-    "MD5": "59cca35ade1a846c946ab8d1eb30350d"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\spawnpoints.bin",
-    "Size": 299361,
-    "MD5": "4365f34a297e1c57cc313a56c648c7e9"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\animals.bin",
-    "Size": 18529,
-    "MD5": "9c7c599500e0565b053dc499c20e673d"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\building.002",
-    "Size": 50,
-    "MD5": "6e4b6f5727ce794ce460173d99c23038"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\building.bin",
-    "Size": 50,
-    "MD5": "10d015d0158144e945132a3d6303db90"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_000.002",
-    "Size": 148852,
-    "MD5": "07686d3be2172669727ac0edc845da2b"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_000.bin",
-    "Size": 148467,
-    "MD5": "6be55c07e021f28e4ee8ed36880378a3"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_001.002",
-    "Size": 252140,
-    "MD5": "9ce142eca796a5ed9d52a26319dd3435"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_001.bin",
-    "Size": 251764,
-    "MD5": "5316f6df2625b071c23692b966b4279a"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_002.002",
-    "Size": 381612,
-    "MD5": "d8a9f02a34fe41d285b612d8921d5749"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_002.bin",
-    "Size": 262447,
-    "MD5": "a64833e0255a0ea7aacf3e8271afffe2"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_003.002",
-    "Size": 339524,
-    "MD5": "73a0fda0941daf47874d41c3f7723b0e"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_003.bin",
-    "Size": 339524,
-    "MD5": "70a5a4ec1938d9c9667fe5a3fbfd1a61"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_004.002",
-    "Size": 289142,
-    "MD5": "edad737ac160ad8199265b48b67c98cf"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_004.bin",
-    "Size": 289142,
-    "MD5": "49a95b1944c6091b1023afa8ae4102a1"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_005.002",
-    "Size": 324484,
-    "MD5": "162b462119b7d968693dc3a7b5857562"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_005.bin",
-    "Size": 324484,
-    "MD5": "483c2d8079f4b91f66d141dac38072a5"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_006.002",
-    "Size": 234510,
-    "MD5": "8ae6762c3a9854e416140e6638c09dcc"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_006.bin",
-    "Size": 234510,
-    "MD5": "d8716959f1c3cc5d5a54af923ab9979a"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_007.002",
-    "Size": 221914,
-    "MD5": "6a87095cd863d8ce2f316794494ed83b"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_007.bin",
-    "Size": 221914,
-    "MD5": "f1280e6d8b7396f2f291ef6d7dd73bb7"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_008.002",
-    "Size": 333302,
-    "MD5": "9f2fcbbb4ab360473ad57a71ebbbec21"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_008.bin",
-    "Size": 333302,
-    "MD5": "f9d77f315a957a1e2013df9d843e7d2b"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_009.002",
-    "Size": 409107,
-    "MD5": "9d2d5406b8c6480660fb3a45d22a40c8"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_009.bin",
-    "Size": 409107,
-    "MD5": "facfb047847c81f93dccb2d3ea241240"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_010.002",
-    "Size": 273535,
-    "MD5": "8014230633556d0cfe9b6a49c8da5ca5"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_010.bin",
-    "Size": 273535,
-    "MD5": "1d6a5c785d9840f4ccdce55f081719bf"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_011.002",
-    "Size": 25342,
-    "MD5": "2e3988511e778fa9a04e531267602144"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\dynamic_011.bin",
-    "Size": 25342,
-    "MD5": "5ffc69f85080230881ed81254c7628b7"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\events.002",
-    "Size": 1511,
-    "MD5": "0c680af647c12e50afc280d2b17e5503"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\events.bin",
-    "Size": 1511,
-    "MD5": "8bcdbf0f226e556a65afc485d91e5701"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\types.002",
-    "Size": 357603,
-    "MD5": "84af40398a761d3b0627e1be778f20a9"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\types.bin",
-    "Size": 357603,
-    "MD5": "61617c577ee5fcd0b82d4767c4e4d0a4"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\vehicles.002",
-    "Size": 100395,
-    "MD5": "e8dafb9bed1b1aff82033bfbb9537b9d"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\vehicles.bin",
-    "Size": 100099,
-    "MD5": "eb2a0e2278445275baf2c11ef147db7d"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.ChernarusPlus\\storage_-1\\data\\zombies.bin",
-    "Size": 12226,
-    "MD5": "3ddfcfdd186702ce97fce69016abd18d"
-  },
-  {
     "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\areaflags.map",
     "Size": 75497496,
     "MD5": "bd52a2350e010301841e2b04691a6127"
@@ -3238,186 +3043,6 @@
     "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\env\\zombie_territories.xml",
     "Size": 34787,
     "MD5": "1fc61cb8956beb4c2170a00cddff2acd"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\players.db",
-    "Size": 16384,
-    "MD5": "727e0664dd50342d2ed3d039ba23ac82"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\spawnpoints.bin",
-    "Size": 234673,
-    "MD5": "8b619ad14601e6686f579c9f0d9473d3"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\animals.bin",
-    "Size": 20929,
-    "MD5": "6f97c2abc7171b6e4d1d67361b7e1e36"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\building.002",
-    "Size": 50,
-    "MD5": "fd47ad82a04811c34d8521db6753ffc7"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\building.bin",
-    "Size": 50,
-    "MD5": "b3bf5958b5a3ef7ab3e80da31d41e78e"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_000.002",
-    "Size": 87191,
-    "MD5": "598186895ed4a3453aaf7c7c8301bcff"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_000.bin",
-    "Size": 87103,
-    "MD5": "9fb18efd8e6a49b22ae10a869fe73e85"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_001.002",
-    "Size": 277065,
-    "MD5": "1a17c2969d9ce83fdb933f1a9a4742fb"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_001.bin",
-    "Size": 274716,
-    "MD5": "626f37a60c97254bebb89bbbee5bd6cd"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_002.002",
-    "Size": 78785,
-    "MD5": "4bcc365fe8bf6ed5574ceb4266957d80"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_002.bin",
-    "Size": 78425,
-    "MD5": "b561a89afb18132bd7b27151e3b2d598"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_003.002",
-    "Size": 178000,
-    "MD5": "6822c7c75106e43ec0a7cfb6f14ae0aa"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_003.bin",
-    "Size": 177872,
-    "MD5": "e347f2f4cc8d44b743b48e5f39b45d8c"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_004.002",
-    "Size": 165603,
-    "MD5": "ddcf2465553affd334347c4c00362b3a"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_004.bin",
-    "Size": 165411,
-    "MD5": "b0f0f598847c9f5611759af2aac41e92"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_005.002",
-    "Size": 200703,
-    "MD5": "6f8e6ef913f5639ad738753ae4d8af3d"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_005.bin",
-    "Size": 199830,
-    "MD5": "a94ea4cab2c125f693df0c2f2fb61bf9"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_006.002",
-    "Size": 125793,
-    "MD5": "79b6934ed8185cbb0d6429d28c7f97a2"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_006.bin",
-    "Size": 125353,
-    "MD5": "59f8786538e05d8a0d9d544364f0a0d2"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_007.002",
-    "Size": 150014,
-    "MD5": "82111dcde1072b9690658586aa14ab89"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_007.bin",
-    "Size": 149422,
-    "MD5": "1d14ae576e25bd05e790b721b4092620"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_008.002",
-    "Size": 133008,
-    "MD5": "c70ab6a124f87e2248196ff93f90e447"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_008.bin",
-    "Size": 132246,
-    "MD5": "6f243abf9f7efe0eb586d16197aef4a1"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_009.002",
-    "Size": 107198,
-    "MD5": "e17850b197e6c23068635427feef545b"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_009.bin",
-    "Size": 106606,
-    "MD5": "5deea715d2e034fa5571045c08b2ac70"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_010.002",
-    "Size": 323252,
-    "MD5": "9f6cc6cbc3fc144c1500a067a8999628"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_010.bin",
-    "Size": 322410,
-    "MD5": "27a5f0e18e70727df6954b5e0bff5167"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_011.002",
-    "Size": 50923,
-    "MD5": "9cbb43af573b6c0140d91251ac423a5f"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\dynamic_011.bin",
-    "Size": 50835,
-    "MD5": "59efad62df23e61d581b51c854bcd9bd"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\events.002",
-    "Size": 1411,
-    "MD5": "0da24dc026ca9d1a6449c983731a9341"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\events.bin",
-    "Size": 1411,
-    "MD5": "7ff395095e68e8d6389bfa72b3020287"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\types.002",
-    "Size": 362751,
-    "MD5": "3955445492dae5db7e017363a39adccd"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\types.bin",
-    "Size": 362751,
-    "MD5": "4b684a733fa819f97a913ca683c58a50"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\vehicles.002",
-    "Size": 92474,
-    "MD5": "6ccacb2f3e8bb9452fca475a965e483a"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\vehicles.bin",
-    "Size": 92226,
-    "MD5": "f2f08ddd876cc6d9643ed92c9fc0b427"
-  },
-  {
-    "FileName": "Missions\\DayZCommunityOfflineMode.Enoch\\storage_-1\\data\\zombies.bin",
-    "Size": 26658,
-    "MD5": "82cf885802d96105d859ad7c48f3c190"
   },
   {
     "FileName": "Mods\\@AdvancedBanking\\meta.cpp",
@@ -8018,5 +7643,15 @@
     "FileName": "Steam\\SmartSteamEmu\\Plugins\\x64\\Emulator.dll",
     "Size": 18944,
     "MD5": "0ed9bdc102d190fc346943db05c6ecdd"
+  },
+  {
+    "FileName": "_Essenciais\\dxwebsetup.exe",
+    "Size": 292184,
+    "MD5": "bcbb7c0cd9696068988953990ec5bd11"
+  },
+  {
+    "FileName": "_Essenciais\\VisualC.exe",
+    "Size": 30008040,
+    "MD5": "fc1123681bd0de0a7513d86d0e4f712c"
   }
 ]
