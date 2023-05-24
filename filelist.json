@@ -6206,13 +6206,13 @@
   },
   {
     "FileName": "Mods\\@Garage\\addons\\Depositary_System.pbo",
-    "Size": 28481982,
-    "MD5": "b9bf6bce9cc2962d753566fc62bd2bc3"
+    "Size": 28481885,
+    "MD5": "9aa284b94141ff978e1416eb6166ee42"
   },
   {
     "FileName": "Mods\\@Garage\\addons\\Depositary_System.pbo.nemesis.bisign",
     "Size": 560,
-    "MD5": "23e598b9f96bd8308987a0f95a9a6ec3"
+    "MD5": "2e289790f439ce98759d0c28d54dfe78"
   },
   {
     "FileName": "Mods\\@GebsFish\\meta.cpp",
@@ -6613,6 +6613,26 @@
     "FileName": "Mods\\@MVS\\Addons\\ModularVestSystem.pbo.nemesis.bisign",
     "Size": 560,
     "MD5": "bacd9881345157a0ba6ae9929ed3458e"
+  },
+  {
+    "FileName": "Mods\\@Nemesis\\Addons\\SkinNemesis.pbo",
+    "Size": 9612260,
+    "MD5": "03437e017b7b2b5e9b5e75ff44c43371"
+  },
+  {
+    "FileName": "Mods\\@Nemesis\\Addons\\SkinNemesis.pbo.nemesis.bisign",
+    "Size": 560,
+    "MD5": "e044149f889899a01de368adecb89235"
+  },
+  {
+    "FileName": "Mods\\@Nemesis\\Addons\\SkinNemesisTexturas.pbo",
+    "Size": 15467719,
+    "MD5": "6174f2a57ecb336247b0115139e89f66"
+  },
+  {
+    "FileName": "Mods\\@Nemesis\\Addons\\SkinNemesisTexturas.pbo.nemesis.bisign",
+    "Size": 560,
+    "MD5": "294c659f3d905d6b5cc8ed8141ad657e"
   },
   {
     "FileName": "Mods\\@Nemesis\\Addons\\AnimalHeads.pbo",
