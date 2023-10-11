@@ -1,27 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <root>     
   <noticia>    
-    <link>https://spard2.github.io/dayzupdate/News/amigos.png</link>
-  </noticia>
-  <noticia>    
-    <link>https://spard2.github.io/dayzupdate/News/1.png</link>
-  </noticia>
-  <noticia>
-    <link>https://spard2.github.io/dayzupdate/News/2.png</link>
-  </noticia>
-  <noticia>   
-    <link>https://spard2.github.io/dayzupdate/News/3.png</link>
-  </noticia>
-  <noticia>    
-    <link>https://spard2.github.io/dayzupdate/News/4.png</link>
-  </noticia>
-  <noticia>   
-    <link>https://spard2.github.io/dayzupdate/News/5.png</link>
-  </noticia>
-  <noticia>   
-    <link>https://spard2.github.io/dayzupdate/News/6.png</link>
-  </noticia>
-  <noticia>   
-    <link>https://spard2.github.io/dayzupdate/News/7.png</link>
-  </noticia>
+    <link>https://spard2.github.io/dayzupdate/News/News1.png</link>
+  </noticia> 
 </root>
