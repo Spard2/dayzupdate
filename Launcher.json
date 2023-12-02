@@ -4,7 +4,8 @@
 	"FileList":"127.0.0.1/DayZ/filelist.json",
 	"DownloadCheck": "127.0.0.1/DayZ/", 
 	"News": [
-		"127.0.0.1/DayZ/Image1.png",
-		"127.0.0.1/DayZ/Image2.png"
+		"https://spard2.github.io/dayzupdate/News/1.png",
+		"https://spard2.github.io/dayzupdate/News/2.png",
+		"https://spard2.github.io/dayzupdate/News/3.png"
 	]			
 }
