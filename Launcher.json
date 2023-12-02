@@ -1,7 +1,8 @@
 {   
 	"Version": "1.01",
-	"Update": "127.0.0.1/Update/",		
-	"Link": "127.0.0.1/DayZ/", 
+	"DownloadUpdate": "127.0.0.1/Update/",	
+	"FileList":"127.0.0.1/DayZ/filelist.json",
+	"DownloadCheck": "127.0.0.1/DayZ/", 
 	"News": [
 		"127.0.0.1/DayZ/Image1.png",
 		"127.0.0.1/DayZ/Image2.png"
