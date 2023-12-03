@@ -1,7 +1,7 @@
 {   
 	"Version": "1.01",
 	"FileList":"https://spard2.github.io/dayzupdate/filelist.json",
-	"DownloadUpdate": "127.0.0.1/Update/",		
+	"DownloadUpdate": "http://127.0.0.1/Update/",		
 	"News": [
 		"https://spard2.github.io/dayzupdate/News/1.png",
 		"https://spard2.github.io/dayzupdate/News/2.png",
