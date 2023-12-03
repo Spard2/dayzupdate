@@ -1,12 +1,17 @@
 ﻿[
   {
-    "FileName": "amd_ags_x64.dll",
-    "Size": 111536,
-    "MD5": "14a6db156de5b3e224232f6251f839dd"
+    "FileName": "DayZDiag_x64.exe",
+    "Size": 17712880,
+    "MD5": "65ebdadeade6711d3a87185cdac1fa87"
   },
   {
-    "FileName": "CefSharp.BrowserSubprocess.Core.dll",
-    "Size": 940544,
-    "MD5": "00dd712605dba39a0549609500a6b4bc"
+    "FileName": "DayZ_BE.exe",
+    "Size": 1337848,
+    "MD5": "f3616dd76629e503eb0d384c6c33b1ae"
+  },
+  {
+    "FileName": "DayZ_x64.exe",
+    "Size": 16612080,
+    "MD5": "d85827c47488b19ea9df75054e2f648e"
   }
 ]
