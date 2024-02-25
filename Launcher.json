@@ -1,8 +1,8 @@
 {   
 	"Version": "1.01",
-	"FileList":"https://181.215.236.118/update/filelist.json",
-	"FileDelete":"https://181.215.236.118/update/filedelete.json",
-	"DownloadUpdate": "https://181.215.236.118/update/dayz/",		
+	"FileList":"http://localhost/dayz/filelist.json",
+	"FileDelete":"http://localhost/dayz/filedelete.json",
+	"DownloadUpdate": "http://localhost/dayz/",		
 	"News": [
 		"https://deadzoneofc.github.io/DeadZone/News/0.png",
 		"https://deadzoneofc.github.io/DeadZone/News/1.png",
